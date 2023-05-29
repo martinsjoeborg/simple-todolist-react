@@ -1,0 +1,14 @@
+{
+    "toDoList": [
+        {
+            "day": "Monday",
+            "toDo": "Clean",
+            "time": "16-17"
+        },
+        {
+            "day": "Tuesday",
+            "toDo": "Gym",
+            "time": "17-19"
+        }
+    ]
+}
